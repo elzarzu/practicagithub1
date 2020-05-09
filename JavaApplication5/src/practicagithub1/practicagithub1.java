@@ -41,6 +41,7 @@ public class practicagithub1 {
         }
         while (dia<1 || dia>7);
         System.out.println("La temperatura fue: "+temperaturas[dia-1]);
+        System.out.println("Que tengas buena tarde.");
     }
     
 }
